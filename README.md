@@ -12,4 +12,3 @@ households: Total number of households, a group of people residing within a home
 medianIncome: Median income for households within a block of houses (measured in tens of thousands of US Dollars)
 medianHouseValue: Median house value for households within a block (measured in US Dollars)
  oceanProximity: Location of the house w.r.t ocean/sea
-Note: The dataset has an attribute with missing values and an attribute with categorical values. Find a way of handling these anomalies and justify your choice.
