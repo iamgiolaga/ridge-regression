@@ -1,6 +1,6 @@
 ## Housing prices with ridge regression
 
 This repository is structured as follows:  
-1. Dataset pre-processing  
-2a. Implementation of ridge regression algorithm from scratch  
-2b. Analysis of results and study of CV risk estimate on parameter alpha  
+- Dataset pre-processing  (00_preprocessing.ipynb)  
+- Implementation of ridge regression algorithm from scratch (01_ridgeregression.ipynb)  
+- Analysis of results and study of CV risk estimate on parameter alpha  (01_ridgeregression.ipynb)  
