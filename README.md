@@ -5,4 +5,5 @@ This repository is structured as follows:
 - Implementation of ridge regression algorithm from scratch (01_ridgeregression.ipynb)  
 - Analysis of results and study of CV risk estimate on parameter alpha  (01_ridgeregression.ipynb)  
 - Display of final results (02_resultsviewer.ipynb)
+- Final report (final_report.pdf)
 
